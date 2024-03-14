@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/janak/.pub-cache/git/betterplayer-91a9625524cdff448e0a9deb5047bcf20cc8dcf1/android/src/main/shaders"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/janak/.pub-cache/git/betterplayer-91a9625524cdff448e0a9deb5047bcf20cc8dcf1/android/src/release/shaders"/></dataSet></merger>

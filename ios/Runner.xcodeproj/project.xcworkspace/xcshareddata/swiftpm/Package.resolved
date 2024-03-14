@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "gcdwebserver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yene/GCDWebServer",
+      "state" : {
+        "revision" : "e143b8ec1b8a45d1779b1658fbaaf8fb039b5685",
+        "version" : "3.5.5"
+      }
+    },
+    {
+      "identity" : "gsplayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wxxsw/GSPlayer",
+      "state" : {
+        "revision" : "aa6dad7943d52f5207f7fcc2ad3e4274583443b8",
+        "version" : "0.2.26"
+      }
+    },
+    {
+      "identity" : "pincache",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pinterest/PINCache",
+      "state" : {
+        "revision" : "875c654984fb52b47ca65ae70d24852b0003ccd9",
+        "version" : "3.0.3"
+      }
+    },
+    {
+      "identity" : "pinoperation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pinterest/PINOperation.git",
+      "state" : {
+        "revision" : "40504c156a68b20f98f7ddc73a115cbb7893be25",
+        "version" : "1.2.2"
+      }
+    }
+  ],
+  "version" : 2
+}
